@@ -1,0 +1,35 @@
+* "Ethics in Bioimaging amd Bioinformatics in Medicine" essay quotes and notes
+*NOTE :- ANYTHING IN QUOTATION MARKS IS A DIRECT QUOTE. CONSIDER REPHRASING*
+*Ticks mean I quoted something*
+
+** Ethics, Computing and Genomics [Book] By Herman T. Tavani (link [[https://books.google.co.uk/books?id%3DwlrPaPRshesC&lpg%3DPP4&pg%3DPA320#v%3Donepage&q&f%3Dfalse][here]])
+*** Chapter 17 - Bioinformatics: Bioinformatics: Challenges at the Frontier
+- [ ] "Information Technology and genetics are the sciences that will have the greatest effect on 21st century healthcare"
+- [ ] "Bioinformatics...the use of information technology to acquire, store, manage, share, analyze represent and transmit genetic data, has blossomed in the past decade."
+**** Accuracy and Error
+- [ ] need to ensure accuracy and error avoidance - ethical issue
+- [ ] "The reason to link error and ethics is that errors, however unintentional, can lead to harms. Whether a harm constitutes a wrong is one of the main challenges of morality"
+- [ ] "Risk to persons"
+  + [ ] computer aided loci identification- faster /ergo/ - more frequent errors
+  + [ ] psychological risks in predicting future illnesses - *important* have /genetic counsellors/
+- [ ] "Recanted linkage studies"
+  + [ ] sometimes, linkage studies unreplicated and have to be recanted
+  + [ ] linkage that correlates with particular races/ethnic groups can have stigma attached
+    * [ ] espesc. w.r.t neurogenetic/psychiatric genetics
+- [ ] Meta-analysis - important to introduce doubts from linkage studies
+- [ ] "Decision support" - raise ethical issues
+  + [ ] Isn't yet (2006) any critical analysis of decision support for use of clinical information, photographic material, pedigree and gene localization evaluation by computer
+    * [ ] MIller and Goodman suggest ripe for inquiry (Ethics, Computing, and Medicine - Kenneth W. Goodman, 1998)
+- [ ] "Appropriate Uses and Users"
+  + [ ]  who should be using these information systems with clinical information
+  + [ ] should seek consent of patient for each 'novel use' of data
+  + [ ] access by doctors/nurses unskilled in area of diagnosis using this data should not be allowed access to this data
+- [ ] Privacy and Confidentiality
+  + [ ] need appropriate authorisation of access to data
+  + [ ] prevent inappropriate / unauthorised access
+  + [ ] personal data can have stigma attached to it
+    * [ ] problems well explored w.r.t *electronic patient record*
+    * (see /Albert 1998/)
+
+
+** TODO Ethics, Computing, And Medicine [Book] By Kenneth W. Goodman (link [[https://books.google.co.uk/books?id%3DWb6apuz7_ocC&lpg%3DPA24&ots%3DD21gsvzxbR&dq%3DMiller%252C%2520Goodman%25201998%2520-Miller-Goodman&lr&pg%3DPP1#v%3Donepage&q%3DMiller,%2520Goodman%25201998%2520-Miller-Goodman&f%3Dfalse][here]])
