@@ -57,3 +57,31 @@ triendl2001japan
   + [ ] Rarely find counseling for patients who went through genetic testing
   + [ ] procedures for informed consent were inadequate
 
+
+** TODO Integrating biobanks: addressing the practical and ethical issues to deliver a valuable tool for cancer research
+watson2010integrating
+- [ ] personalised medicine lead to departure from 'one-size fits all' treatment of cancer
+  + [ ] imatinib - target specific subpopulation in chronic myeloid leukaemia ([[https://clincancerres.aacrjournals.org/content/8/5/935.full.pdf%2Bhtml][link]])
+  + [ ] herceptin - ERBB2-positive ([[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2768514/][link]])
+- [ ] This could lower costs of clinical trials and improve identification of biomarkers
+- [ ] for this, need biobanks - important resource for understanding underlying cause of cancer
+- [ ] clear guidelines required to integrate individual institutions with national biobanks all while building public trust
+- [ ] "Ethical issues associated with integration"
+  + [ ] "Patient Consent"
+    * [ ] Best systems educate users and allow them to choose what kind of trials their data is included in
+    * [ ] however, increasing pressure with regard for increasing flexibility to use sample data
+    * [ ] ARGUMENT: unlike clinical trials, it isn't hurting anyone ergo, should be less stringent with this data?
+    * [ ] However, "To what extent can such consent about the unknown future be accurately described as informed consent?"
+
+** TODO Simplifying informed consent for biorepositories: Stakeholder perspectives
+beskow2010simplifying
+
+** TODO From genetic privacy to open consent
+lunshof2008genetic
+
+** TODO Data sharing in genomics — re-shaping scientific practice
+kaye2009data
+
+** TODO Next-generation sequencing in the clinic: are we ready?
+biesecker2012next
+
