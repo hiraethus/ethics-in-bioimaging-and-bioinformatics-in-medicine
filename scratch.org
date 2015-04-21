@@ -35,6 +35,7 @@ tavani2006ethics
 
 ** TODO Ethics, Computing, And Medicine [Book] By Kenneth W. Goodman (link [[https://books.google.co.uk/books?id%3DWb6apuz7_ocC&lpg%3DPA24&ots%3DD21gsvzxbR&dq%3DMiller%252C%2520Goodman%25201998%2520-Miller-Goodman&lr&pg%3DPP1#v%3Donepage&q%3DMiller,%2520Goodman%25201998%2520-Miller-Goodman&f%3Dfalse][here]])
 
+
 ** Ethics of Bioinformatics: A Convergence between Bioethics and Computer Ethics
 hongladarom2006ethics
 *** Bioinformatics
@@ -45,4 +46,14 @@ hongladarom2006ethics
   + [ ] Stealing genetic data - more serious than stealing credit card number
     * identity theft - stealing a real part of your identity
   + [ ] Genetic sequence unique part of your identity. Credit card number. Therefore is a big part of one's identity and thus should ethically be treated with much more care than a credit card number.
+
+
+** Japan's bioinformatics efforts misguided
+triendl2001japan
+- [ ] Japan Biological Informatics Consortium (JBIC) felt clinical use of bioinformatics was premature in 2001
+- [ ] Country was unprepared for clinical genetic research
+- [ ] Jiro Nudeshima, bioethics specialist
+  + [ ]  There weren't any guidelines for genetic testing
+  + [ ] Rarely find counseling for patients who went through genetic testing
+  + [ ] procedures for informed consent were inadequate
 
