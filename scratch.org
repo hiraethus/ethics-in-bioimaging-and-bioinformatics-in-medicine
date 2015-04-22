@@ -100,6 +100,33 @@ beskow2010simplifying
   + [ ] There is hope - the article presented was written at an 8th grade reading level
   + [ ] HOWEVER, IMHO, participants in study weren't asked if consent form had gaps in it.
 
+
+** TODO Considering something 'ELSE': Ethical, legal and socio-economic factors in medical imaging and medical informatics
+duquenoy2008considering
+- research driven by technological advances
+- [ ] must also consider ELSE (Ethical, Legal and Socio-Economic implications)
+- [ ] One such technology - Medical Imaging and Medical Informatics (MIMI)
+- [ ] context is that of computer scientists within "principles of governance" set out by healthcare professionals
+  + [ ] need to bridge gap between ethical considerations and technological progress
+- [ ] "electronic medical data"
+  + [ ] Patient I.D
+  + [ ] recorded symptoms
+  + [ ] diagnosis
+  + [ ] treatment
+  + [ ] relevant supporting evidence (e.g. medical images -TMA image poss)
+- [ ] Ethical duties put forward by (Beauchamp and Childress, 2001)
+  + [ ] Beneficence
+  + [ ] Non-malefeasance
+  + [ ] Autonomy
+  + [ ] Justice
+- [ ] Ethical issues in IT field
+  + [ ] normally to do with protection of private individuals personal data
+  + [ ] this article takes it that medical images is a form of personal data
+  + [ ] must protect individuals personal data but also the ways in which it is examined and interpreted
+- [ ] Law places responsibility on people to keep confidential information that they know is to be treated as confidential
+  + [ ] Obviously, Medical data should be treated as confidential
+  + [ ] third parties accidentaly receiving data that should be confidential also has duty of confidence
+
 ** TODO From genetic privacy to open consent
 lunshof2008genetic
 
