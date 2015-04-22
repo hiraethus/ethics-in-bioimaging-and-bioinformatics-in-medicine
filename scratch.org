@@ -58,7 +58,7 @@ triendl2001japan
   + [ ] procedures for informed consent were inadequate
 
 
-** TODO Integrating biobanks: addressing the practical and ethical issues to deliver a valuable tool for cancer research
+** Integrating biobanks: addressing the practical and ethical issues to deliver a valuable tool for cancer research
 watson2010integrating
 - [ ] personalised medicine lead to departure from 'one-size fits all' treatment of cancer
   + [ ] imatinib - target specific subpopulation in chronic myeloid leukaemia ([[https://clincancerres.aacrjournals.org/content/8/5/935.full.pdf%2Bhtml][link]])
@@ -72,16 +72,35 @@ watson2010integrating
     * [ ] however, increasing pressure with regard for increasing flexibility to use sample data
     * [ ] ARGUMENT: unlike clinical trials, it isn't hurting anyone ergo, should be less stringent with this data?
     * [ ] However, "To what extent can such consent about the unknown future be accurately described as informed consent?"
+    * [ ] Could rectify this by allowing patients to withdraw their data from a biobank whenever new research projects are authorised by an Institution Review Board
+  + [ ] Right of individuals to remove their data from biobank
+    * [ ] participants have right to remove data from biobank in accordance with Nuremberg Code and the declaration of Helsinki
+    * [ ] However, this is not in the interest of industry/research as it can affect the statistical integrity of data
+    * [ ] UK Biobank has graded withdrawal:
+      - [ ] complete withdrawal
+      - [ ] discontinued participation
+      - [ ] no further contact
+  + [ ] Role of IRBs (Institution Review Boards) and RECs (Research Ethics Committees)
+    * [ ] consent from IRBs and RECs necessary to use biobank materials
+    * [ ] ensure seek consent with narrowly worded permission of usage
+    * [ ] becoming the "Guardians of biobanks" as time moves on
+
 
 ** TODO Simplifying informed consent for biorepositories: Stakeholder perspectives
 beskow2010simplifying
 
+
 ** TODO From genetic privacy to open consent
 lunshof2008genetic
+
 
 ** TODO Data sharing in genomics — re-shaping scientific practice
 kaye2009data
 
+
 ** TODO Next-generation sequencing in the clinic: are we ready?
 biesecker2012next
 
+
+** TODO Genetic research and stored biological materials: ethics and practice
+wolf2010genetic
