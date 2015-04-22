@@ -86,9 +86,19 @@ watson2010integrating
     * [ ] becoming the "Guardians of biobanks" as time moves on
 
 
-** TODO Simplifying informed consent for biorepositories: Stakeholder perspectives
+** Simplifying informed consent for biorepositories: Stakeholder perspectives
 beskow2010simplifying
-
+- [ ] Obtaining consent in biobanking complicated/controversial
+- [ ] consent forms perceptively getting longer and more complicated
+- [ ] Did a study where they created a sample biorepository consent form
+  + [ ] Asked patients, IRB staff and researchers to underline lines they felt important to ask on the consent form
+  + [ ] IRB staff hilighted most lines, Researchers less and patients least
+    * [ ] A THOUGHT: Can patients be trusted to know the implications of submitting their data to a biobank
+  + [ ] Top ranked sentences not similar between groups - maybe because each of the groups have different motivations?
+    * [ ] researchers only want to maximise number of participants
+    * [ ] IRB there to protect participants
+  + [ ] There is hope - the article presented was written at an 8th grade reading level
+  + [ ] HOWEVER, IMHO, participants in study weren't asked if consent form had gaps in it.
 
 ** TODO From genetic privacy to open consent
 lunshof2008genetic
