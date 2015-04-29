@@ -5,8 +5,8 @@
 ** Ethics, Computing and Genomics [Book] By Herman T. Tavani (link [[https://books.google.co.uk/books?id%3DwlrPaPRshesC&lpg%3DPP4&pg%3DPA320#v%3Donepage&q&f%3Dfalse][here]])
 tavani2006ethics
 *** Chapter 17 - Bioinformatics: Bioinformatics: Challenges at the Frontier
-- [ ] "Information Technology and genetics are the sciences that will have the greatest effect on 21st century healthcare"
-- [ ] "Bioinformatics...the use of information technology to acquire, store, manage, share, analyze represent and transmit genetic data, has blossomed in the past decade."
+- [X] "Information Technology and genetics are the sciences that will have the greatest effect on 21st century healthcare"
+- [X] "Bioinformatics...the use of information technology to acquire, store, manage, share, analyze represent and transmit genetic data, has blossomed in the past decade."
 **** Accuracy and Error
 - [ ] need to ensure accuracy and error avoidance - ethical issue
 - [ ] "The reason to link error and ethics is that errors, however unintentional, can lead to harms. Whether a harm constitutes a wrong is one of the main challenges of morality"
@@ -40,12 +40,12 @@ tavani2006ethics
 hongladarom2006ethics
 *** Bioinformatics
 - Manipulating genetic data
-- [ ] Privacy greatest concern
-- [ ] Is ethics of Bioinformatics BioEthics or Computer Ethics - can view from multiple perspectives
-- [ ] "Towards an Ethics of Bioinformatics"
-  + [ ] Stealing genetic data - more serious than stealing credit card number
+- [X] Privacy greatest concern
+- [X] Is ethics of Bioinformatics BioEthics or Computer Ethics - can view from multiple perspectives
+- [X] "Towards an Ethics of Bioinformatics"
+  + [X] Stealing genetic data - more serious than stealing credit card number
     * identity theft - stealing a real part of your identity
-  + [ ] Genetic sequence unique part of your identity. Credit card number. Therefore is a big part of one's identity and thus should ethically be treated with much more care than a credit card number.
+  + [X] Genetic sequence unique part of your identity. Credit card number. Therefore is a big part of one's identity and thus should ethically be treated with much more care than a credit card number.
 
 
 ** Japan's bioinformatics efforts misguided
