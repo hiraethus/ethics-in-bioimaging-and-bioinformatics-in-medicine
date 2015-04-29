@@ -101,7 +101,7 @@ beskow2010simplifying
   + [ ] HOWEVER, IMHO, participants in study weren't asked if consent form had gaps in it.
 
 
-** TODO Considering something 'ELSE': Ethical, legal and socio-economic factors in medical imaging and medical informatics
+**  Considering something 'ELSE': Ethical, legal and socio-economic factors in medical imaging and medical informatics
 duquenoy2008considering
 - research driven by technological advances
 - [ ] must also consider ELSE (Ethical, Legal and Socio-Economic implications)
@@ -126,6 +126,14 @@ duquenoy2008considering
 - [ ] Law places responsibility on people to keep confidential information that they know is to be treated as confidential
   + [ ] Obviously, Medical data should be treated as confidential
   + [ ] third parties accidentaly receiving data that should be confidential also has duty of confidence
+
+
+** TODO Avoiding Twisted Pixels Ethical Guidelines...
+cromey2010avoiding
+- [ ]
+
+** TODO Digital Images are Data: And Should Be Treated as Such
+cromey2013digital
 
 ** TODO From genetic privacy to open consent
 lunshof2008genetic
