@@ -1,6 +1,10 @@
-\documentclass[a4paper, 12pt]{article}
-\usepackage[backend=biber,style=authoryear]{biblatex}
+\documentclass[british,a4paper, 12pt]{article}
+\usepackage{babel}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=apa]{biblatex}
 \addbibresource{ethics-essay.bib}
+
+\DeclareLanguageMapping{british}{british-apa}
 
 \title{Bioinformatics and Bioimaging: Considerations for the $21^{st}$ Century}
 \author{Michael J. Jones \\
@@ -36,7 +40,7 @@ Bioimaging and Bioinformatics with particular attention given to the storing
 of data and tissue in Biobanks, followed by a discussion of the ethics of
 image manipulation in a scientific context.
 
-\section{Biobanks}
+v\section{Biobanks}
 An important element for successful scientific enquire in the field of
 Bioinformatics is the availability of large data sources for processing. The
 term `biobank` is a confounding term resulting from a range of different
