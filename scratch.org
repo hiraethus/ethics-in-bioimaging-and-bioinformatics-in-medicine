@@ -60,9 +60,9 @@ triendl2001japan
 
 ** Integrating biobanks: addressing the practical and ethical issues to deliver a valuable tool for cancer research
 watson2010integrating
-- [ ] personalised medicine lead to departure from 'one-size fits all' treatment of cancer
-  + [ ] imatinib - target specific subpopulation in chronic myeloid leukaemia ([[https://clincancerres.aacrjournals.org/content/8/5/935.full.pdf%2Bhtml][link]])
-  + [ ] herceptin - ERBB2-positive ([[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2768514/][link]])
+- [X] personalised medicine lead to departure from 'one-size fits all' treatment of cancer
+  + [X] imatinib - target specific subpopulation in chronic myeloid leukaemia ([[https://clincancerres.aacrjournals.org/content/8/5/935.full.pdf%2Bhtml][link]])
+  + [X] herceptin - ERBB2-positive ([[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2768514/][link]])
 - [ ] This could lower costs of clinical trials and improve identification of biomarkers
 - [ ] for this, need biobanks - important resource for understanding underlying cause of cancer
 - [ ] clear guidelines required to integrate individual institutions with national biobanks all while building public trust
