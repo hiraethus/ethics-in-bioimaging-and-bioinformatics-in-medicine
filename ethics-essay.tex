@@ -1,4 +1,5 @@
 \documentclass[british,a4paper, 12pt]{article}
+\usepackage[hidelinks]{hyperref}
 \usepackage{babel}
 \usepackage{csquotes}
 \usepackage[backend=biber,style=apa]{biblatex}
@@ -40,7 +41,7 @@ Bioimaging and Bioinformatics with particular attention given to the storing
 of data and tissue in Biobanks, followed by a discussion of the ethics of
 image manipulation in a scientific context.
 
-v\section{Biobanks}
+\section{Biobanks}
 An important element for successful scientific enquire in the field of
 Bioinformatics is the availability of large data sources for processing. The
 term `biobank` is a confounding term resulting from a range of different
@@ -89,16 +90,37 @@ the Icelandic citizens \parencite{carey2009data}.
 Knowing that this is in fact a legal as well as an ethical issue, Research Ethics 
 Committees (RECs) and Institution Review Boards (IRBs) have an important role in 
 ensuring that the consent of patients is sought for all material stored in a 
-biobank \cite{watson2010integrating}.
+biobank \parencite{watson2010integrating}.
 
-% Tissue samples act etc??
+In light of data protection laws that govern all personal data within the European Union,
+biobanks now require far more stringent measures to ensure that the interests of individuals
+putting their data into biobanks are protected. Including requiring the explicit signing of
+consent forms by patients detailing the ways in which their tissue and data samples could
+be used in the future.
+
+Observing the increasing length and complexity of these consent forms,
+\citeauthor*{beskow2010simplifyinog} conducted a study in which they drafted a sample consent form
+for a biorepository. They asked cohorts of patients, researchers and IRB staff to underline
+sentences within the consent form using a tablet computer. The results of these findings were
+then loaded into SAS (\url{http://www.sas.com}) software to analyse the frequencies and the nature
+of sentences highlighted by the different interest groups \parencite{beskow2010simplifyinog}.
+
+Reassuringly, the number of lines underlined by IRB staff, researchers and patients decreased in
+each respective group, implying that of everyone, the patients displayed the lowest concern for
+their personal data. Furthermore, if IRB staff preferred to include more of the lines in the
+consent form than researchers which could mean that researchers display less concern with the
+informing a patient of how their data will be used. Conversely, this might also imply that IRB
+representatives practised greater stringency to justify their positions. We also know that
+researchers are, in practice, looking to maximise the number of participants in their studies
+whereas IRB staff are tasked with protecting the rights of patients.
+
 
 \section{Bioimaging}
 
 \subsubsection{Data protection}
 Data protection measures that affect medical and personal data should also be 
 applied to medical imaging data, knowing that these images are themselves a form 
-of personal data \cite{duquenoy2008considering}.
+of personal data \parencite{duquenoy2008considering}.
 
 \subsubsection{Manipulation of Images}
 
