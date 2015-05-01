@@ -88,17 +88,17 @@ watson2010integrating
 
 ** Simplifying informed consent for biorepositories: Stakeholder perspectives
 beskow2010simplifying
-- [ ] Obtaining consent in biobanking complicated/controversial
+- [X] Obtaining consent in biobanking complicated/controversial
 - [X] consent forms perceptively getting longer and more complicated
-- [-] Did a study where they created a sample biorepository consent form
+- [X] Did a study where they created a sample biorepository consent form
   + [X] Asked patients, IRB staff and researchers to underline lines they felt important to ask on the consent form
-  + [ ] IRB staff hilighted most lines, Researchers less and patients least
-    * [ ] A THOUGHT: Can patients be trusted to know the implications of submitting their data to a biobank
-  + [ ] Top ranked sentences not similar between groups - maybe because each of the groups have different motivations?
-    * [ ] researchers only want to maximise number of participants
-    * [ ] IRB there to protect participants
-  + [ ] There is hope - the article presented was written at an 8th grade reading level
-  + [ ] HOWEVER, IMHO, participants in study weren't asked if consent form had gaps in it.
+  + [X] IRB staff hilighted most lines, Researchers less and patients least
+    * [X] A THOUGHT: Can patients be trusted to know the implications of submitting their data to a biobank
+  + [X] Top ranked sentences not similar between groups - maybe because each of the groups have different motivations?
+    * [X] researchers only want to maximise number of participants
+    * [X] IRB there to protect participants
+  + [X] There is hope - the article presented was written at an 8th grade reading level
+  + [X] HOWEVER, IMHO, participants in study weren't asked if consent form had gaps in it.
 
 
 **  Considering something 'ELSE': Ethical, legal and socio-economic factors in medical imaging and medical informatics
